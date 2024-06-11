@@ -1,0 +1,14 @@
+.BBBBBBBB {
+  border-radius: 12px;
+  width: 30vw;
+  height: 30vh;
+  background-color: pink;
+  margin: 8px;
+}
+.bb {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

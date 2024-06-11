@@ -1,0 +1,24 @@
+.contaner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 30px;
+  gap: 15px;
+  border-radius: 12px;
+}
+.towch {
+  background-color: black;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 30px;
+  gap: 20px;
+}
+.b {
+  height: 70px;
+  width: 80px;
+  color: black;
+  border-radius: 12px;
+}

@@ -1,0 +1,27 @@
+.nemeh {
+  background-color: greenyellow;
+  width: 95px;
+  height: 35px;
+  border-radius: 8px;
+  justify-content: space-between;
+  align-items: end;
+}
+.hasah {
+  background-color: red;
+  width: 95px;
+  height: 35px;
+  border-radius: 8px;
+  justify-content: space-between;
+  align-items: end;
+}
+.reset {
+  background-color: gray;
+  width: 95px;
+  height: 35px;
+  border-radius: 8px;
+  justify-content: space-between;
+  align-items: end;
+}
+.zai {
+  justify-content: space-around;
+}
